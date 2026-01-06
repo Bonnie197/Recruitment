@@ -11,3 +11,4 @@ AI Infra工程师
 3. 对Stable Diffusion等主流AIGC模型有深入的原理理解和丰富的优化实践经验。熟悉并有能力深入定制diffusers, ComfyUI等开源推理框架。
 4. 熟练掌握至少一种主流深度学习框架（如PyTorch, TensorFlow）
 工作地址：上海普陀区国浩长风城南座6楼
+投递链接：https://echotech.jobs.feishu.cn/qiandaozhaopin 
